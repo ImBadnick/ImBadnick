@@ -9,11 +9,11 @@
 - ⚡ Fun fact: I love videogames
 
 ### Connect with me:
-[<img style="margin-right:10px" align="left" alt="codeSTACKr.com" width="22px" src="./img/Logo.png" />][website] 
-[<img style="margin-right:10px" align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn0.iconfinder.com/data/icons/social-rounded/72/Twitter-256.png" />][twitter]
-[<img style="margin-right:10px" align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn3.iconfinder.com/data/icons/social-rounded-2/72/Linkedin-512.png" />][linkedin]
+[<img style="margin-right:10px" align="left" alt="codeSTACKr.com" target="_blank" width="22px" src="./img/Logo.png" />][website] 
+[<img style="margin-right:10px" align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn0.iconfinder.com/data/icons/social-rounded/72/Twitter-256.png" target="_blank" />][twitter]
+[<img style="margin-right:10px" align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn3.iconfinder.com/data/icons/social-rounded-2/72/Linkedin-512.png" target="_blank" />][linkedin]
 [<img style="margin-right:10px" align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn1.iconfinder.com/data/icons/social-rounded-2/32/instagram-512.png" />][instagram]
-[<img style="margin-right:10px" align="left" alt="mail | Mail" width="22px" src="https://cdn4.iconfinder.com/data/icons/address-book-providers-in-colors/512/outlook-256.png" />][Mail]
+[<img style="margin-right:10px" align="left" alt="mail | Mail" width="22px" src="https://cdn4.iconfinder.com/data/icons/address-book-providers-in-colors/512/outlook-256.png" target="_blank" />][Mail]
 
 <br />
 
