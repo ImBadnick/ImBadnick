@@ -22,12 +22,12 @@
 <img align="left" style="margin-right:10px" alt="C" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" />
 <img align="left" style="margin-right:10px" alt="Python" width="26px" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/267_Python_logo-256.png" />
 <img align="left" style="margin-right:10px" alt="TensorFlow" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Tensorflow_logo.svg/957px-Tensorflow_logo.svg.png" />
-<img align="left" style="margin-right:10px" alt="JupyterNotebook" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/1200px-Jupyter_logo.svg.png" />
+<img align="left" style="margin-right:10px" alt="JupyterNotebook" width="26px" src="./img/Jupyter.png" />
 <img align="left" style="margin-right:10px" alt="Matlab" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Matlab_Logo.png/667px-Matlab_Logo.png" />
-<img align="left" style="margin-right:10px" alt="MySQL" width="26px" src="https://cdn4.iconfinder.com/data/icons/logos-3/181/MySQL-256.png" />
-<img align="left" style="margin-right:10px" alt="Grafana" width="26px" src="https://upload.wikimedia.org/wikipedia/en/thumb/a/a1/Grafana_logo.svg/1200px-Grafana_logo.svg.png" />
-<img align="left" style="margin-right:10px" alt="React Native" width="26px" src="https://www.geekandjob.com/uploads/wiki/970f29ff48f60141f46571e231a5f53e.png" />
-<img align="left" style="margin-right:10px" alt="Flutter" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/1/17/Google-flutter-logo.png" />
+<img align="left" style="margin-right:10px" alt="MySQL" width="26px" src="https://icons-for-free.com/iconfiles/png/512/development+logo+mysql+icon-1320184807686758112.png" />
+<img align="left" style="margin-right:10px" alt="Grafana" width="26px" src="https://i.pinimg.com/originals/ed/52/04/ed52045809ad01c33d1e1859531cb264.jpg" />
+<img align="left" style="margin-right:10px" alt="React Native" width="26px" src="https://cdn0.iconfinder.com/data/icons/logos-brands-in-colors/128/react-256.png" />
+<img align="left" style="margin-right:10px" alt="Flutter" width="26px" src="./img/Flutter.png" />
 <img align="left" style="margin-right:10px" alt="HTML5" width="26px" src="https://cdn1.iconfinder.com/data/icons/logotypes/32/badge-html-5-256.png" />
 <img align="left" style="margin-right:10px" alt="CSS" width="26px" src="https://cdn1.iconfinder.com/data/icons/logotypes/32/badge-css-3-256.png" />
 <img align="left" style="margin-right:10px" alt="JavaScript" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/7/73/Javascript-736400_960_720.png" />
