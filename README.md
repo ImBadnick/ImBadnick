@@ -1,6 +1,6 @@
-### Hi there, I'm **Badnick** 👋
+## Hi there, I'm **Badnick** 👋
 
-## I'm a university student at University of Pisa. Currently i'm studying for the master's degree in Artificial Intelligence and Data Engineering.
+### I'm a university student at University of Pisa. Currently i'm studying for the master's degree in Artificial Intelligence and Data Engineering.
 
 - 🔭 I’m currently working on Samsung Innovation Campus - Smart Things Edition 2020/2021
 - 🌱 I’m currently learning react native and flutter
