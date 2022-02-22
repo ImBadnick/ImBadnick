@@ -2,10 +2,9 @@
 
 ### I'm a university student at University of Pisa. Currently i'm studying for the master's degree in Artificial Intelligence and Data Engineering.
 
-- 🔭 I’m currently working on Samsung Innovation Campus - Smart Things Edition 2020/2021
-- 🌱 I’m currently learning react native and flutter
+- 🌱 I’m currently learning react native and flutter.
 - 👯 I’m looking to collaborate with some company.
-- 🥅 2020 Goals: Learn something more about WebDev (fullstack)
+- 🥅 2021 Goals: Learn more about AI.
 - ⚡ Fun fact: I love videogames
 
 ### Connect with me:
