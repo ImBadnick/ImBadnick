@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning react native and flutter.
 - 👯 I’m looking to collaborate with some company.
-- 🥅 2021 Goals: Learn more about AI.
+- 🥅 2022 Goals: Learn more about AI.
 - ⚡ Fun fact: I love videogames
 
 ### Connect with me:
