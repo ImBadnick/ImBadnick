@@ -40,8 +40,9 @@
 
 <br/>
 
+### Github stats:
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ImBadnick&show_icons=true&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ImBadnick&show_icons=true&theme=merko&hide_title=true&hide=prs,issues)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
