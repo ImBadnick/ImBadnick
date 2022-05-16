@@ -42,7 +42,7 @@
 
 ### Most used languages:
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ImBadnick&hide_title=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ImBadnick&hide_title=true&layout=compact&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
