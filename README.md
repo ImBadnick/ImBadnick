@@ -1,10 +1,9 @@
 ## Hi there, I'm **Badnick** 👋
 
-### I'm a university student at University of Pisa. Currently i'm studying for the master's degree in Artificial Intelligence and Data Engineering.
+### I'm a Data Engineer at Data Reply IT. Currently i'm working in microservices field.
 
-- 🌱 I’m currently learning react native and flutter.
-- 👯 I’m looking to collaborate with some company.
-- 🥅 2022 Goals: Learn more about AI.
+- 🌱 I’m currently learning nextJS.
+- 🥅 2024 Goals: Learn more about AI.
 - ⚡ Fun fact: I love videogames
 
 ### Connect with me:
